@@ -86,5 +86,6 @@ public class Train extends Transport {
     public void refill() {
         System.out.println("заправить дизелем");
 
+
     }
 }

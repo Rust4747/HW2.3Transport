@@ -82,5 +82,6 @@ public class Car extends Transport {
         System.out.println("зарядить на специальных электропарковках, если это электрокар");
 
 
+
     }
 }
