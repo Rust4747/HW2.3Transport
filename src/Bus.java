@@ -11,7 +11,7 @@ public class Bus extends Transport{
     @Override
     public String toString() {
         return "Bus{" +
-                "brand='" + brand + '\'' +
+                "brand=" + brand + '\'' +
                 ", model='" + model + '\'' +
                 ", color='" + color + '\'' +
                 ", speed=" + speed +

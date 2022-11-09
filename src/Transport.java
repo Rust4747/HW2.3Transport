@@ -56,6 +56,7 @@ public abstract class Transport {
         return speed;
     }
 
+
     public void setSpeed(int speed) {
         if (speed<=0) {
             this.speed = 1;
